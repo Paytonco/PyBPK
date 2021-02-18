@@ -7,7 +7,7 @@ Physiologically-based pharmacokinetics modeling in Python
 * [Questions and comments](#questions-and-comments)
 
 ## License
-This package is released under the [MIT](License)
+This package is released under the [MIT](License) License
 
 ## Development Team
 This package was developed by the [Yellepeddi Research Group](https://medicine.utah.edu/faculty/mddetail.php?facultyID=u0840209) at the University of Utah.
